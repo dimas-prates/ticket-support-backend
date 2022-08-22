@@ -1,0 +1,9 @@
+{
+  "name": "ticket-support-backend",
+  "version": "1.0.0",
+  "description": "Personal project to practice tech and concepts",
+  "main": "./build/index.js",
+  "repository": "https://github.com/dimas-prates/ticket-support-backend",
+  "author": "Dimas Prates",
+  "license": "MIT"
+}
